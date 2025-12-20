@@ -20,20 +20,8 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 
 ## 📂 Project Structure
 
-```
-BridgeLabz-Training
-│ 
-├──core-java-practice/
-│  ├── gcr-codebase/
-│  │   ├── arrays/
-│  │   ├── control-flow/
-│  │   ├── extras/
-│  │   ├── methods/
-│  │   ├── programming-elements/
-│  │   └── strings/
-│  │
-│  ├── leet-code-codebase/
-│  └── scenario-based/
+```text
+core-java-practice/
 │
 ├──oops-practice/
 │  ├── gcr-codebase/
@@ -61,42 +49,9 @@ BridgeLabz-Training
 │  ├── leet-code-codebase/
 │  └── scenario-based/
 │
-├──collections-practice/
-│  ├── gcr-codebase/
-│  │   ├── annoatations/
-│  │   ├── exception-handling/
-│  │   ├── java-generics/
-│  │   ├── java-streams/
-│  │   ├── junit/
-│  │   ├── list-interface/
-│  │   ├── map-interface/
-│  │   ├── queue-interface/
-│  │   ├── set-interface/
-│  │   ├── reflection/
-│  │   └── regex/
-│  │
-│  ├── leet-code-codebase/
-│  └── scenario-based/
-│
-├──io-programming-practice/
-│  ├── gcr-codebase/
-│  │   ├── csv-data-handling/
-│  │   ├── json/
-│  │
-│  ├── leet-code-codebase/
-│  └── scenario-based/
-│
-├──java8-features-practice/
-│  ├── gcr-codebase/
-│  │   ├── functional-interfaces
-│  │   ├── lambda-expressions
-│  │
-│  ├── leet-code-codebase/
-│  └── scenario-based/
-│
-├──review/
-```
+└── scenario-based/
 
+```
 ---
 
 ## 📌 Folder Details
@@ -522,7 +477,7 @@ Contains **17 Java problems** solved for:
 
 ## 👨‍💻 Author
 
-**Nived Agrawal**  
+*Nived Agrawal*  
 B.Tech Computer Science  
 
 ---
