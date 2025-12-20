@@ -17,6 +17,7 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
   - Contains all object oriented related problems code and problem implementations
 
 ---
+
 ## 📂 Project Structure
 
 ```
@@ -60,7 +61,6 @@ BridgeLabz-Training
 │  ├── leet-code-codebase/
 │  └── scenario-based/
 │
-│
 ├──collections-practice/
 │  ├── gcr-codebase/
 │  │   ├── annoatations/
@@ -78,7 +78,6 @@ BridgeLabz-Training
 │  ├── leet-code-codebase/
 │  └── scenario-based/
 │
-│
 ├──io-programming-practice/
 │  ├── gcr-codebase/
 │  │   ├── csv-data-handling/
@@ -86,7 +85,6 @@ BridgeLabz-Training
 │  │
 │  ├── leet-code-codebase/
 │  └── scenario-based/
-│
 │
 ├──java8-features-practice/
 │  ├── gcr-codebase/
@@ -96,13 +94,37 @@ BridgeLabz-Training
 │  ├── leet-code-codebase/
 │  └── scenario-based/
 │
-│
 ├──review/
-
 ```
 
 ---
 
+## 📌 Folder Details
+
+### 1️⃣ **gcr-codebase**
+Contains fundamental Core Java Problems.
+
+#### 📁 programming-elements
+- Variables
+- Data Types
+- Operators
+- Input / Output
+- Basic Java syntax
+
+#### 📁 control-flow
+- Conditional Statements (if, if-else, switch)
+- Loops (for, while, do-while)
+- Flow control logic
+
+---
+
+### 2️⃣ leet-code-codebase
+Contains **17 Java problems** solved for:
+- Logic building
+- Problem-solving practice
+- Java syntax and optimization
+
+---
 
 ## 🔷 📅 Week 1: Core Java Foundations
 
@@ -152,7 +174,6 @@ BridgeLabz-Training
 
 ---
 
-
 ## 🔷 Week 2: Strings and Problem Solving
 
 ### 📅 22-Dec-2025 (Monday)
@@ -168,7 +189,7 @@ BridgeLabz-Training
 - Studied **SDLC Team Flow**
 - Solved scenario-based practice problems
 - **Completed and submitted Scenario-based assignment**
- 
+
 🔗 [Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
@@ -177,7 +198,7 @@ BridgeLabz-Training
 - Studied **Study The String Based Problem**
 - Solved extra String-based practice problems
 - **Completed and submitted String-based assignment**
- 
+
 🔗 [Extra String-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
@@ -186,11 +207,10 @@ BridgeLabz-Training
 - Studied **Study The Java Methods**
 - Solved Method-based practice problems
 - **Completed and submitted Method-based assignment**
- 
+
 🔗 [Method-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
-
 
 ## 🔷 Week 3: Scenario-based Problems and Built-in functions, OOPS  
 ### 📅 29-Dec-2025 (Monday)
@@ -198,7 +218,7 @@ BridgeLabz-Training
 - Solved scenario-based practice problems
 - Solved extra built-in function practice Problems
 - **Completed and submitted Scenario-based assignment and built-in function assignment**
- 
+
 🔗 [Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 🔗 [Extras](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
@@ -209,7 +229,7 @@ BridgeLabz-Training
 - Solved Class and Object-based practice problems
 - Solved scenario-based practice problems
 - **Completed and submitted Class and Object-based assignment**
- 
+
 🔗 [Class And Object-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/class-and-objects)
 
 ---
@@ -218,7 +238,7 @@ BridgeLabz-Training
 - Studied **Study The Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts**
 - Solved Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
 - **Completed and submitted The Java Constructors, Instance vs. Class Variables, Access Modifiers assignment**
- 
+
 🔗 [Constructor-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/constructors)
 
 ---
@@ -228,7 +248,7 @@ BridgeLabz-Training
 - Solved scenario-based practice problems
 - Solved keywords-based practice problems
 - **Completed and submitted scenario-based and keyword-based assignment**
- 
+
 🔗 [Keyword-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/this-static-final-keyword)
 
 ---
@@ -237,7 +257,7 @@ BridgeLabz-Training
 - Studied **Study The Inheritance And Class-Object Diagram**
 - Solved scenario-based practice problems
 - **Completed and submitted scenario-based and draw the Class-Object Diagram assignment**
- 
+
 🔗 [UML-Diagram](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/oops-design-principles)
 
 ---
@@ -246,18 +266,17 @@ BridgeLabz-Training
 - Studied **Study The Encapsulation, Polymorphism, Interface and Abstract Class**
 - Solved inheritance-based practice problems
 - **Completed and submitted inheritance-based assignment**
- 
+
 🔗 [Inheritance-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/inheritance)
 
 ---
-
 
 ## 🔷 Week 4: Scenario-based Problems, OOPS and DSA
 ### 📅 5-Jan-2026 (Monday)
 - Studied **Study The Encapsulation, Polymorphism, Interface and Abstract Class**
 - Solved scenario-based practice problems on Encapsulation, Polymorphism, Interface and Abstract Class
 - **Completed and submitted scenario-based assignment**
- 
+
 🔗 [Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/gcr-codebase/oops-pillars)
 
 ---
@@ -267,7 +286,7 @@ BridgeLabz-Training
 - Solved scenario-based practice problems
 - solved leetcode-based practice problems
 - **Completed and submitted scenario-based and leetcode problems**
- 
+
 🔗 [Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
 🔗 [Leetcode-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)
 
@@ -276,7 +295,7 @@ BridgeLabz-Training
 - Studied *Study The Data Structure Introduction and LinkedList*
 - Solved linkedlist leetcode practice problems
 - *Completed and submitted leetcode practice problem*
- 
+
 🔗 [LinkedList-Leetcode-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)
 
 ---
@@ -285,7 +304,7 @@ BridgeLabz-Training
 - Studied *Study The Data Structure - LinkedList*
 - Solved LinkedList scenario-based practice problems
 - *Completed and submitted scenario-based assignment*
- 
+
 🔗 [LinkedList-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
 
 ---
@@ -294,7 +313,7 @@ BridgeLabz-Training
 - Studied *Study The OOPS Concept and Scenario-based Problems*
 - Solved scenario-based practice problems
 - *Completed and submitted scenario-based assignment*
- 
+
 🔗 [OOPS Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
 
 ---
@@ -304,7 +323,7 @@ BridgeLabz-Training
 - Studied *Study The Scenario Based OOPs Problems*
 - Solved oops scenario-based practice problems
 - *Completed oops scenario-based assignment*
- 
+
 🔗 [OOPS scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
 
 ---
@@ -313,16 +332,16 @@ BridgeLabz-Training
 - Studied *Study The Stack , Queue, HashMap and Hashing Function*
 - Solved oops scenario-based practice problems
 - *Completed and submitted oops scenario-based assignment*
- 
+
 🔗 [OOPS Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
 
 ---
 ### 📅 14-Jan-2026 (Wednesday)
 - Studied *Study The Stack , Queue, HashMap and Hashing Function*
 - *Completed and submitted Stacks-Queues/HashMap-HashingFunction assignment*
- 
-🔗 [Stacks-Queues](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmaps-and-hashfunction)
-🔗 [HashMap-HashingFunction](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacks-and-queues)
+
+🔗 [Stacks-Queues](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmaps-and-hashfunction)
+🔗 [HashMap-HashingFunction](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stacks-and-queues)
 
 ---
 
@@ -330,8 +349,8 @@ BridgeLabz-Training
 - Studied *Study The Address Book Problem and Searching Algorithms*
 - Solved oops sorting-based practice problems
 - *Completed and submitted sorting-based assignment*
- 
-🔗 [Sorting Algorithms](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
+🔗 [Sorting Algorithms](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
 
 ---
 
@@ -339,8 +358,8 @@ BridgeLabz-Training
 - Studied *Study The Runtime analysis and Git commands*
 - Solved oops searching based practice problems
 - *Completed and submitted Linear and Binary search-based assignment*
- 
-🔗 [Searching Algorithms](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching-algorithms)
+
+🔗 [Searching Algorithms](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/searching-algorithms)
 
 ---
 
@@ -348,8 +367,8 @@ BridgeLabz-Training
 - Studied *Study The Scenario-based problem*
 - Solved oops scenario-based practice problem
 - *Completed and submitted oops and algroithm's runtime analysis based assignment*
- 
-🔗 [Runtime Analysis](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-%26-big-O-notation)
+
+🔗 [Runtime Analysis](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-%26-big-O-notation)
 
 ---
 
@@ -359,8 +378,8 @@ BridgeLabz-Training
 - Studied *Study The Generics*
 - Solved dsa scenario-based practice problems
 - *Completed and submitted dsa scenario-based assignment*
- 
-🔗 [DSA Scenario-based](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+🔗 [DSA Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
@@ -368,8 +387,8 @@ BridgeLabz-Training
 - Studied *Study The Collections Framework*
 - Solved dsa scenario-based practice problems
 - *Completed and submitted dsa scenario-based assignment*
- 
-🔗 [DSA Scenario-based](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+🔗 [DSA Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
@@ -377,8 +396,8 @@ BridgeLabz-Training
 - Studied *Study The List , Queue, Map and Set Interface*
 - Solved scenario-based practice problems
 - *Completed and submitted the generics assignment*
- 
-🔗 [Java-generics](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-generics)
+
+🔗 [Java-generics](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-generics)
 
 ---
 
@@ -386,11 +405,11 @@ BridgeLabz-Training
 - Studied *Study The exceptions, List , Queue, Map and Set Interface*
 - Solved scenario-based practice problems
 - *Completed and submitted the List, Queue, Map and Set assignment*
- 
-🔗 [List-Interface](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/list-interface)
-🔗 [Queue-Interface](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/queue-interface)
-🔗 [Map-Interface](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/map-interface)
-🔗 [Set-Interface](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/set-interface)
+
+🔗 [List-Interface](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/list-interface)
+🔗 [Queue-Interface](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/queue-interface)
+🔗 [Map-Interface](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/map-interface)
+🔗 [Set-Interface](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/set-interface)
 
 ---
 
@@ -399,8 +418,8 @@ BridgeLabz-Training
 - Studied *Study The Exception Handling and Java Streams , Scenario-based problem*
 - Solved scenario-based practice problems
 - *Completed and submitted the scenario-based assignment*
- 
-🔗 [Scenario-Based](https://github.com/rajsinghcs/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+🔗 [Scenario-Based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
@@ -408,9 +427,9 @@ BridgeLabz-Training
 - Studied *Study The Exception Handling and Java Streams*
 - Solved scenario-based practice problems
 - *Completed and submitted the Exception Handling and Java Streams assignment*
- 
-🔗 [Exception-Handling](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
-🔗 [Java-Streams](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-streams)
+
+🔗 [Exception-Handling](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)
+🔗 [Java-Streams](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-streams)
 
 ---
 
@@ -419,16 +438,16 @@ BridgeLabz-Training
 - Studied *Study The Scenario-Based Problems*
 - Solved scenario-based practice problems
 - *Completed and submitted the Scenario-Based assignment*
- 
-🔗 [Lexical-Twist Problem](https://github.com/rajsinghcs/BridgeLabz-Training/blob/collections-practice/collections-practice/scenario-based/LexicalTwistProblem.java)
+
+🔗 [Lexical-Twist Problem](https://github.com/NivedAgrawal/BridgeLabz-Training/blob/collections-practice/collections-practice/scenario-based/LexicalTwistProblem.java)
 
 ---
 ### 📅 28-Jan-2026 (Wednesday)
 - Studied *Study The Regex and JUnit and Scenario-Based Problems*
 - Solved scenario-based practice problems
 - *Completed and submitted the scenario-based assignment*
- 
-🔗 [Scenario-Based](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+🔗 [Scenario-Based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
 
 ---
 
@@ -436,8 +455,8 @@ BridgeLabz-Training
 - Studied *Study The Annotations, Reflections, Regex and JUnit*
 - Study scenario-based practice problems
 - *Completed and submitted the scenario-based assignment*
- 
-🔗 [Scenario-Based](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+🔗 [Scenario-Based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
 
 ---
 
@@ -446,9 +465,9 @@ BridgeLabz-Training
 - Studied *Study The Regex, JUnit, Annotations, Reflections*
 - Solved scenario-based practice problems
 - *Completed and submitted the Regex and JUnit assignment*
- 
-🔗 [Java-Regex](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
-🔗 [JUnit](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)
+
+🔗 [Java-Regex](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+🔗 [JUnit](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)
 
 ---
 
@@ -458,9 +477,9 @@ BridgeLabz-Training
 - Studied *Study The CSV Data, Annotations and Reflections*
 - Solved scenario-based practice problems
 - *Completed and submitted the annotations and reflections assignment*
- 
-🔗 [Annotations](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
-🔗 [Reflections](https://github.com/rajsinghcs/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection)
+
+🔗 [Annotations](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
+🔗 [Reflections](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection)
 
 ---
 
@@ -468,8 +487,8 @@ BridgeLabz-Training
 - Studied *Study The JSON, CSV Data handling*
 - Solved scenario-based practice problems
 - *Completed and submitted the CSV-data assignment*
- 
-🔗 [CSV-Data-Handling](https://github.com/rajsinghcs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling)
+
+🔗 [CSV-Data-Handling](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling)
 
 ---
 
@@ -477,18 +496,18 @@ BridgeLabz-Training
 - Studied *Study The lambda expression, functional interface*
 - Solved scenario-based practice problems
 - *Completed and submitted the lambda expression and JSON Data assignment*
- 
-🔗 [Lambda-Expression](https://github.com/rajsinghcs/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions)
-🔗 [JSON-Data](https://github.com/rajsinghcs/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json)
 
+🔗 [Lambda-Expression](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda-expressions)
+🔗 [JSON-Data](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json)
 
 ---
+
 ## 🛠️ Technologies Used
 
-- Eclipse
-- Java
-- JDK
-- Git & GitHub
+- **Eclipse**
+- **Java**
+- **JDK**
+- **Git & GitHub**
 
 ---
 
@@ -511,3 +530,4 @@ B.Tech Computer Science
 ## 📜 Note
 
 This repository is strictly for **Learning and Practice Purposes** as part of the BridgeLabz Training.
+
