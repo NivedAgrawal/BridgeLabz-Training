@@ -66,15 +66,19 @@ Contains fundamental Core Java Problems.
 - Input / Output
 - Basic Java syntax
 
+<<<<<<< HEAD
 #### 📁 control-flow
+=======
+#### 📁 [control-flow](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+>>>>>>> 6366ea4 (Fix markdown links in README.md)
 - Conditional Statements (if, if-else, switch)
 - Loops (for, while, do-while)
 - Flow control logic
 
 ---
 
-### 2️⃣ leet-code-codebase
-Contains **17 Java problems** solved for:
+### 2️⃣ [leet-code-codebase](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+Contains *1 Java problems* solved for:
 - Logic building
 - Problem-solving practice
 - Java syntax and optimization
