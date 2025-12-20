@@ -16,7 +16,7 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 ---
 ## 📂 Project Structure
 
-text
+```text
 core-java-practice/
 │
 ├── gcr-codebase/
@@ -27,7 +27,7 @@ core-java-practice/
 │
 └── scenario-based/
 
-
+```
 ---
 
 ## 📌 Folder Details
@@ -80,7 +80,7 @@ Each problem is implemented using *optimized and readable Java code*.
 
 ## 👨‍💻 Author
 
-*Raj Bahadur Singh*  
+*Nived Agrawal*  
 B.Tech Computer Science  
 Capgemini Trainee
 s
