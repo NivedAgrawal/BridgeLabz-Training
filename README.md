@@ -16,7 +16,7 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 ---
 ## 📂 Project Structure
 
-text
+```text
 core-java-practice/
 │
 ├── gcr-codebase/
@@ -27,7 +27,7 @@ core-java-practice/
 │
 └── scenario-based/
 
-
+```
 ---
 
 ## 📌 Folder Details
@@ -42,15 +42,15 @@ Contains fundamental Core Java Problems.
 - Input / Output
 - Basic Java syntax
 
-#### 📁 [control-flow]https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+#### 📁 [control-flow](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 - Conditional Statements (if, if-else, switch)
 - Loops (for, while, do-while)
 - Flow control logic
 
 ---
 
-### 2️⃣ [leet-code-codebase]https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-Contains *17 Java problems* solved for:
+### 2️⃣ [leet-code-codebase](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+Contains *1 Java problems* solved for:
 - Logic building
 - Problem-solving practice
 - Java syntax and optimization
@@ -80,7 +80,7 @@ Each problem is implemented using *optimized and readable Java code*.
 
 ## 👨‍💻 Author
 
-*Raj Bahadur Singh*  
+*Nived Agrawal*  
 B.Tech Computer Science  
 Capgemini Trainee
 s
