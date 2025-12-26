@@ -1,6 +1,6 @@
 package String_EXTRAS;
 
-public class Revers_a_String {
+public class ReversAString {
     public static void main(String[] args) {
         String str = "hello";
         System.out.println("Reversed String: " + reverseString(str));
