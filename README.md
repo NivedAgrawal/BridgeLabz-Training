@@ -20,8 +20,12 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 core-java-practice/
 │
 ├── gcr-codebase/
+│   ├── arrays/
+│   ├── control-flow/
+│   ├── extras/
+│   ├── methods/
 │   ├── programming-elements/
-│   └── control-flow/
+│   └── strings/
 │
 ├── leet-code-codebase/
 │
