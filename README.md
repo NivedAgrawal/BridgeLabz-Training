@@ -23,17 +23,13 @@ It includes Java fundamentals, problem-solving practice, and scenario-based impl
 ```text
 core-java-practice/
 │
-├──oops-practice/
-│  ├── gcr-codebase/
-│  │   ├── class-and-object/
-│  │   ├── constructor/
-│  │   ├── encapsulation-polymorphism-interface-abstract-classs/
-│  │   ├── inheritance/
-│  │   ├── static-final-keyword/
-│  │   └── uml-diagrams/
-│  │
-│  ├── leet-code-codebase/
-│  └── scenario-based/
+├── gcr-codebase/
+│   ├── arrays/
+│   ├── control-flow/
+│   ├── extras/
+│   ├── methods/
+│   ├── programming-elements/
+│   └── strings/
 │
 ├──dsa-practice/
 │  ├── gcr-codebase/
@@ -102,11 +98,7 @@ Contains fundamental Core Java Problems.
 - Input / Output
 - Basic Java syntax
 
-<<<<<<< HEAD
-#### 📁 control-flow
-=======
 #### 📁 [control-flow](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
->>>>>>> 6366ea4 (Fix markdown links in README.md)
 - Conditional Statements (if, if-else, switch)
 - Loops (for, while, do-while)
 - Flow control logic
