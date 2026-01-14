@@ -228,7 +228,51 @@ BridgeLabz-Training
 🔗 [Leetcode-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)
 
 ---
+### 📅 7-Jan-2026 (Wednesday)
+- Studied *Study The Data Structure Introduction and LinkedList*
+- Solved linkedlist leetcode practice problems
+- *Completed and submitted leetcode practice problem*
+ 
+🔗 [LinkedList-Leetcode-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/leet-code-codebase)
 
+---
+
+### 📅 8-Jan-2026 (Thursday)
+- Studied *Study The Data Structure - LinkedList*
+- Solved LinkedList scenario-based practice problems
+- *Completed and submitted scenario-based assignment*
+ 
+🔗 [LinkedList-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+
+---
+
+### 📅 9-Jan-2026 (Friday)
+- Studied *Study The OOPS Concept and Scenario-based Problems*
+- Solved scenario-based practice problems
+- *Completed and submitted scenario-based assignment*
+ 
+🔗 [OOPS Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
+
+---
+
+## 🔷 Week 4: Scenario-based Problems, OOPS and DSA
+### 📅 12-Jan-2026 (Monday)
+- Studied *Study The Scenario Based OOPs Problems*
+- Solved oops scenario-based practice problems
+- *Completed oops scenario-based assignment*
+ 
+🔗 [OOPS scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
+
+---
+
+### 📅 13-Jan-2026 (Tuesday)
+- Studied *Study The Stack , Queue, HashMap and Hashing Function*
+- Solved oops scenario-based practice problems
+- *Completed and submitted oops scenario-based assignment*
+ 
+🔗 [OOPS Scenario-based](https://github.com/NivedAgrawal/BridgeLabz-Training/tree/oops-practice/scenerio-based)
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -250,7 +294,7 @@ BridgeLabz-Training
 
 ## 👨‍💻 Author
 
-**Raj Bahadur Singh**  
+**Nived Agrawal**  
 B.Tech Computer Science  
 
 ---
