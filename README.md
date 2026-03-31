@@ -127,6 +127,9 @@ BridgeLabz-Training
 ├──jdbc-and-dbms-practice/
 │  ├── gcr-codebase/
 │
+├──solution-designing-practice/
+│  ├── gcr-codebase/
+│
 ├──multi-threading-practice/
 │  ├── gcr-codebase/
 │
